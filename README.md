@@ -39,4 +39,4 @@ Both models achieve sub-micrometer accuracy in displacement reconstruction under
 ### CNN+LSTM Hybrid
 - 1D CNN for local feature extraction
 - Bidirectional LSTM for temporal modeling
-- Three-channel input: P_signal, C parameter, derivative
+- Three-channel input: P_signal, & features extracted through feature engineering
